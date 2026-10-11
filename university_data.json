@@ -1,0 +1,55 @@
+
+{
+  "universities": [
+    {
+      "name": "Example Technology University",
+      "programs": [
+        {
+          "name": "BS Artificial Intelligence",
+          "minimum_percentage": 70,
+          "accepted_qualifications": [
+            "FSc Pre-Engineering",
+            "ICS"
+          ],
+          "mathematics_required": true,
+          "description": "Artificial intelligence, machine learning and intelligent systems."
+        },
+        {
+          "name": "BS Computer Science",
+          "minimum_percentage": 60,
+          "accepted_qualifications": [
+            "FSc Pre-Engineering",
+            "ICS"
+          ],
+          "mathematics_required": true,
+          "description": "Programming, software development, algorithms and computing."
+        }
+      ]
+    },
+    {
+      "name": "Example National University",
+      "programs": [
+        {
+          "name": "BS Software Engineering",
+          "minimum_percentage": 65,
+          "accepted_qualifications": [
+            "FSc Pre-Engineering",
+            "ICS"
+          ],
+          "mathematics_required": true,
+          "description": "Software design, testing and application development."
+        },
+        {
+          "name": "BS Data Science",
+          "minimum_percentage": 75,
+          "accepted_qualifications": [
+            "FSc Pre-Engineering",
+            "ICS"
+          ],
+          "mathematics_required": true,
+          "description": "Statistics, data analysis, programming and machine learning."
+        }
+      ]
+    }
+  ]
+}
